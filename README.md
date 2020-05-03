@@ -17,7 +17,7 @@ C
 
 ### Problem Set 1
 
-Link to assignments: https://cs50.harvard.edu/x/2020/psets/1/
+Link to assignment: https://cs50.harvard.edu/x/2020/psets/1/
 
 1. Print Hello World
 2. Create a Super Mario Bro's pyramid between 1 and 8 levels
