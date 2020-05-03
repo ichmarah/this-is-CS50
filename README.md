@@ -33,3 +33,19 @@ Height: 8
  #######
 ########
 ```
+
+3. Cash: A program that first asks the user how much change is owed and then prints the minimum number of coins with which that change can be made.
+
+```
+$ ./cash
+Change owed: 0.41
+4
+```
+
+```
+$ ./cash
+Change owed: -0.41
+Change owed: foo
+Change owed: 0.41
+4
+```
